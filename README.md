@@ -1,6 +1,7 @@
 # Firebase-Library
-# download the file from the link : https://github.com/firebase/firebase-arduino/files/2268787/firebase-arduino-master.zip
-# extract the zip file.
-# copy everything from the file and paste and replace into the location C:\Users\hossa\Documents\Arduino\libraries\firebase-arduino-master
-# now download this file from the link https://github.com/firebase/firebase-arduino/files/2268800/FirebaseHttpClient.zip
-# extract it and paste and replace the file into C:\Users\hossa\Documents\Arduino\libraries\firebase-arduino-master\src
+# Tải xuống thư viện đã được update tại đường dẫn : https://github.com/firebase/firebase-arduino/files/2268787/firebase-arduino-master.zip
+# Giải nén file vừa tải về.
+# Copy và paste toàn bộ những file vừa giải nén vào đường dẫn C:\...\Documents\Arduino\libraries\firebase-arduino-master
+# Bây giờ hãy tải thêm 1 file tại đường dẫn https://github.com/firebase/firebase-arduino/files/2268800/FirebaseHttpClient.zip
+# Giải nén file vừa tải về.
+# Copy toàn bộ và paste vào đường dẫn sau C:\...\Documents\Arduino\libraries\firebase-arduino-master\src
